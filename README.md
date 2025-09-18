@@ -7,7 +7,7 @@
 
 ## 🎯 About Me
 
-I bridge cutting-edge physical and spatial AI research with real-world deployment, taking perception (vision, force, IMUs, 3D data) and robotics algorithms from foundational research to production systems that solve complex industrial challenges. Recently completed my PhD at ETH Zurich, where I won the **Hilti Prize 2025** (awarded to top 0.025% of graduates) for combining outstanding scientific research with practical industrial impact.
+I bridge cutting-edge physical and spatial AI research with real-world deployment, taking perception (vision, force, IMUs, 3D data) and robotics algorithms from foundational research to production systems that solve complex, safety-critical industrial challenges. Recently completed my PhD at ETH Zurich, where I won the **Hilti Prize 2025** (awarded to top 0.025% of graduates) for combining outstanding scientific research with practical industrial impact.
 
 Currently on sabbatical, playing with **transformers** and **attention architectures** for spatio-temporal modeling applications, and exploring foundation models (**VLMs**, **VLA models**) for robotics (while living in a van in South East Asia 🚐).
 
